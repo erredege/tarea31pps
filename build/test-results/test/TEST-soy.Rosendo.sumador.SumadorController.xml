@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="soy.Rosendo.sumador.SumadorController" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-12T14:12:05" hostname="puestaproduccionsegura" time="0.004">
+  <properties/>
+  <testcase name="testSum" classname="soy.Rosendo.sumador.SumadorController" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
